@@ -123,7 +123,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       width: 250,
                       margin: const EdgeInsets.fromLTRB(0, 0, 0, 20),
                       child: Text(
-                        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.',
+                        'Lorem ipsum dolor sit amet, consectetur adipiscing elim, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.',
                         textAlign: TextAlign.left,
                         style: GoogleFonts.poppins(
                           fontSize: 12,
